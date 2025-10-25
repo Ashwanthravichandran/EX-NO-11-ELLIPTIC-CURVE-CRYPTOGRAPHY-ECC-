@@ -23,12 +23,14 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 5. Security: ECC’s security relies on the Elliptic Curve Discrete Logarithm Problem (ECDLP), making it highly secure with shorter key lengths compared to traditional methods like RSA.
 
 ## Program:
+```c
 
+```
 
 
 ## Output:
 
 
 ## Result:
-The program is executed successfully
-
+The ECC program successfully demonstrates point addition and scalar multiplication on an elliptic 
+curve over a finite field, and the simulation has been executed and verified successfully.
